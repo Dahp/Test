@@ -1,0 +1,8 @@
+﻿  Main.cpp
+E:\Рабочий стол\Apk_laba_2\Main.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  3 of 10 functions (30.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Apk_laba_2.vcxproj -> E:\Рабочий стол\Apk_laba_2\Release\Apk_laba_2.exe

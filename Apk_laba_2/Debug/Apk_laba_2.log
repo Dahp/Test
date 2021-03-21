@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\Рабочий стол\Apk_laba_2\Main.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Apk_laba_2.vcxproj -> E:\Рабочий стол\Apk_laba_2\Debug\Apk_laba_2.exe
